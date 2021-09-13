@@ -8,6 +8,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias.
 * JavaScript
 * BootStrap
 
+# Bibliotecas
+- Google Fonts
+- Bootstrap 5
+- Icons
+
 # Projeto 
 
 Este ecommecer e referente  uma quitanda de frutas institucional formato responsiva, para usar em diversos 
