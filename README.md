@@ -10,7 +10,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias.
 
 # Bibliotecas
 - Google Fonts
-- Bootstrap 5
+- Bootstrap
 - Icons
 
 # Projeto 
